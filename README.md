@@ -4,71 +4,106 @@ Este é um projeto de formulário de cadastro desenvolvido como parte do curso d
 
 ---
 
-## 🖼️ Demonstração
+## 🖼️ Demonstração# Registration Form - EBAC
+
+This is a registration form project developed as part of the **EBAC** course. The form is responsive, styled with **Bootstrap**, and uses **jQuery** for dynamic functionalities such as phone masks and validation.
+
+---
+
+## 🖼️ Demo
+
+<img alt="Form Demo" src="images/preview.png">
+
+---
+
+## 🚀 Features
+
+- **Responsiveness**: The form adapts to different screen sizes (desktop, tablet, and mobile).
+- **Phone Masks**: Dynamic masks for mobile and landline phone numbers.
+- **Validation**: Required fields are validated before submission.
+- **Success Message**: A success alert is displayed upon correct form submission.
+- **Automatic Reset**: The form is automatically cleared after successful submission.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**: Form structure.
+- **CSS3**: Custom styling and responsiveness.
+- **Bootstrap 5**: Responsive layout and styled components.
+- **jQuery**: DOM manipulation and dynamic functionalities.
+- **jQuery Mask Plugin**: Application of masks to phone fields.
+
+---
+
+## 📂 Project Structure
+
 
 <img alt="Demonstração do Formulário" src="images/preview.png">
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- **Responsividade**: O formulário se adapta a diferentes tamanhos de tela (desktop, tablet e celular).
-- **Máscaras de Telefone**: Máscaras dinâmicas para números de celular e telefone fixo.
-- **Validação**: Campos obrigatórios validados antes do envio.
-- **Mensagem de Sucesso**: Exibição de um alerta ao enviar o formulário corretamente.
-- **Reset Automático**: O formulário é limpo automaticamente após o envio bem-sucedido.
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- **HTML5**: Estrutura do formulário.
-- **CSS3**: Estilização personalizada e responsividade.
-- **Bootstrap 5**: Layout responsivo e componentes estilizados.
-- **jQuery**: Manipulação do DOM e funcionalidades dinâmicas.
-- **jQuery Mask Plugin**: Aplicação de máscaras nos campos de telefone.
+- **Responsiveness**: The form adapts to different screen sizes (desktop, tablet, and mobile).
+- **Phone Masks**: Dynamic masks for mobile and landline phone numbers.
+- **Validation**: Required fields are validated before submission.
+- **Success Message**: A success alert is displayed upon correct form submission.
+- **Automatic Reset**: The form is automatically cleared after successful submission.
 
 ---
 
-## 📂 Estrutura do Projeto
-- **index.html** # Estrutura principal do formulário 
-- **style.css** # Estilos personalizados 
-- **script.js** # Funcionalidades dinâmicas com jQuery 
-- **README.md** # Documentação do projeto
+## 🛠️ Technologies Used
+
+- **HTML5**: Form structure.
+- **CSS3**: Custom styling and responsiveness.
+- **Bootstrap 5**: Responsive layout and styled components.
+- **jQuery**: DOM manipulation and dynamic functionalities.
+- **jQuery Mask Plugin**: Application of masks to phone fields.
 
 ---
 
-## 📋 Como Utilizar
+## 📂 Project Structure
+- **index.html** # Main structure of the form 
+- **style.css** # Custom styles
+- **script.js** # Dynamic functionalities with jQuery
+- **README.md** # Project documentation
 
-1. **Clone o repositório**:
+
+
+---
+
+## 📋 How to Use
+
+1. **Clone the repository**:
 - git clone https://github.com/DevMichaelMS/ex12.13_formulario
 
-2. **Abra o arquivo** index.html no navegador:
+2. **Open the** index.html file in your browser:
 
-- Você pode usar a extensão Live Server no VS Code para facilitar o desenvolvimento.
+- You can use the **Live Server** extension in VS Code for easier development.
 
-3. **Preencha o formulário**:
-- Escolha o tipo de telefone (Celular ou Fixo).
-- Insira os dados obrigatórios.
-- Clique em "Enviar" para ver a mensagem de sucesso.
-
----
-
-## 📱 Responsividade
-# O formulário foi projetado para funcionar em diferentes dispositivos:
-
-- Desktop: Layout centralizado com largura máxima de 400px.
-- Tablet: Ajustes no tamanho do texto e espaçamento.
-- Celular: Layout compacto com fontes menores.
+3. **Fill out the form**:
+- Choose the phone type (Mobile or Landline).
+- Enter the required fields.
+- Click "Submit" to see the success message.
 
 ---
 
-## 🛡️ Licença
-- Este projeto é de uso livre e foi desenvolvido para fins educacionais.
+## 📱 Responsiveness
+# The form is designed to work on different devices:
+
+- Desktop: Centered layout with a maximum width of 400px.
+- Tablet: Adjustments to text size and spacing.
+- Mobile: Compact layout with smaller fonts.
+
+---
+
+## 🛡️ License
+- This project is free to use and was developed for educational purposes.
 
 ---
 
 ## ✨ Autor
 - Michael Silva
-- Desenvolvido como parte do curso da EBAC.
-- Se você gostou deste projeto, sinta-se à vontade para dar uma ⭐ no repositório!
+- Developed as part of the EBAC course.
+- If you enjoyed this project, feel free to give a ⭐ on the repository!
