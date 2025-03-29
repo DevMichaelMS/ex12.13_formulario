@@ -6,9 +6,7 @@ Este é um projeto de formulário de cadastro desenvolvido como parte do curso d
 
 ## 🖼️ Demonstração
 
-<img alt="Demonstração do Formulário" src="https://via.placeholder.com/800x400?text=Formulário+de+Cadastro">
-
-*(Substitua pelo link de uma imagem ou GIF do formulário funcionando.)*
+<img alt="Demonstração do Formulário" src="images/preview.png">
 
 ---
 
