@@ -2,12 +2,16 @@ body {
     background: linear-gradient(to top right, #ff4800, #ff00c8, #9900ff, #49007a, #120035 );
     min-height: 100vh;
     margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.container {
-    padding: 36px;
+.form-wrapper {
     background-color: rgb(236, 236, 236);
+    padding: 36px;
     border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.8);
 }
 
 .btn {
