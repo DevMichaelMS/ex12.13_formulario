@@ -2,13 +2,7 @@
 
 ---
 
-# Formulário de Cadastro - EBAC
-
-Este é um projeto de formulário de cadastro desenvolvido como parte do curso da **EBAC**. O formulário é responsivo, estilizado com **Bootstrap** e utiliza **jQuery** para funcionalidades dinâmicas, como máscaras de telefone e validação.
-
----
-
-## 🖼️ Demonstração# Registration Form - EBAC
+# Registration Form - EBAC
 
 This is a registration form project developed as part of the **EBAC** course. The form is responsive, styled with **Bootstrap**, and uses **jQuery** for dynamic functionalities such as phone masks and validation.
 
