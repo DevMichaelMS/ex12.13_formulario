@@ -1,3 +1,7 @@
+[🇧🇷 Versão em Português](PT-BR-README.md) | [🇺🇸 English Version](README.md)
+
+---
+
 # Formulário de Cadastro - EBAC
 
 Este é um projeto de formulário de cadastro desenvolvido como parte do curso da **EBAC**. O formulário é responsivo, estilizado com **Bootstrap** e utiliza **jQuery** para funcionalidades dinâmicas, como máscaras de telefone e validação.
